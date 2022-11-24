@@ -1,0 +1,29 @@
+var myresume={   => My Resume
+    Name:"slyster",
+    Age:"95",
+    Gender:"male",
+    Qualifications:["D.M.E","MERN Developer"],
+    University:"XYZ",
+    Marital_status:"NIL",
+    Experiences:"NIL",
+    Address:"No 1 Big Street",
+    Phone:"012345678",
+    Email:"xyz@123.in",
+}
+console.log(myresume);
+
+
+
+output=>
+
+{Name: 'slyster', Age: '95', Gender: 'male', Qualifications: Array(2), University: 'XYZ', …}
+Address:"No 1 Big Street"
+Age: "95"
+Email: "xyz@123.in"
+Experiences: "NIL"
+Gender: "male"
+Marital_status: "NIL"
+Name: "slyster"
+Phone: "012345678"
+Qualifications: (2) ['D.M.E', 'MERN Developer']
+University: "XYZ"
